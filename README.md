@@ -27,4 +27,4 @@ Most of my production work lives in private company repositories. I am rebuildin
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/zakir-saifi/) · [Email](mailto:zak.saifi7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/zakir-saifi-776a59128/) · [Email](mailto:zak.saifi7@gmail.com)
