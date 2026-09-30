@@ -1,30 +1,35 @@
-# Hi, I'm Zakir
+# Hi, I'm Zakir 👋
 
-Senior backend engineer with 9 years of experience building distributed systems across fintech, legal tech, and search.
+Senior backend engineer with 9+ years of experience designing and scaling distributed systems across fintech, legal tech, search, and developer tooling.
 
-Most of my production work lives in private company repositories. I am rebuilding this profile around focused backend projects, technical notes, and open-source contributions that can be discussed in public.
+I build reliable, high-throughput platforms with Java, Kotlin, Spring Boot, Kafka, and cloud-native infrastructure. I enjoy solving problems around system design, event-driven architecture, search, observability, and production AI agents.
 
-## What I work on
+## 🧰 Technical toolkit
 
-- Distributed systems, microservices, and event-driven architecture
-- Java and Kotlin services with Spring Boot, Kafka, gRPC, and REST
-- PostgreSQL, Cassandra, Redis, and Elasticsearch
-- AWS, Kubernetes, Docker, Terraform, observability, and automated testing
-- Production GenAI systems using LangGraph, LangChain, AWS Bedrock, and tool-calling agents
+- **Languages:** Java, Kotlin, Python, TypeScript
+- **Backend:** Spring Boot, Spring WebFlux, Kafka, gRPC, REST, Apache Camel
+- **Data:** PostgreSQL, Cassandra, Redis, Elasticsearch
+- **Cloud & infrastructure:** AWS, Kubernetes, Docker, Terraform, CI/CD
+- **Reliability & security:** Distributed systems, automated testing, observability, OAuth2, RBAC
+- **GenAI:** LangGraph, LangChain, AWS Bedrock, MCP, tool-calling agents, guardrails
 
-## Selected impact
+## 🚀 Selected impact
 
-- Led a three-region authentication migration serving 200K users across 1,500 customers while reducing provisioned EC2 memory by 78%.
-- Led delivery of an audit platform processing 100M+ events daily with 10K events/second peaks and seven-year retention.
-- Built a production incident-analysis agent that saved the on-call team 10-12 engineer-hours each week.
-- Built trading and financial-event systems handling 20K orders per minute and 10M+ events daily.
+- Led a three-region authentication migration for **200K users across 1,500 customers**, with no forced logouts and a **78% reduction in provisioned EC2 memory**.
+- Designed an audit platform processing **100M+ events per day**, handling **10K events/second peaks** with durable retries, idempotency, and seven-year retention.
+- Built a production incident-analysis agent that correlates metrics and logs, saving on-call teams **10–12 engineer-hours per week**.
+- Scaled trading APIs to **20K orders per minute** at sub-100ms p95 latency and built event systems processing **10M+ events daily**.
+- Extended a petabyte-scale search platform to run Elasticsearch versions in parallel, enabling phased migration and tenant-level rollback.
 
-## Current focus
+## 💡 Engineering interests
 
-- Turning private experience into safe, self-contained Java and Kotlin reference implementations
-- Preparing open-source contributions in the JVM and backend ecosystem
-- Exploring reliable agentic systems, observability, and developer tooling
+- Reliable distributed systems and event-driven architecture
+- JVM performance, API design, and backend platform engineering
+- Search systems, observability, and production resilience
+- Agentic AI systems with measurable reliability and operational value
 
-## Connect
+## 🤝 Let's connect
+
+I'm open to senior backend engineering opportunities and conversations about distributed systems, JVM platforms, and production AI.
 
 [LinkedIn](https://www.linkedin.com/in/zakir-saifi-776a59128/) · [Email](mailto:zak.saifi7@gmail.com)
